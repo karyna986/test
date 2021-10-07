@@ -1,27 +1,32 @@
+
 .block {
-    width: 700px;
+    width: 600px;
     height: 80px;
 }
-.header {
+header {
     margin-bottom: 100px;
 }
 .main-block-top {
-    width: 140px;
+    width: 200px;
     height: 80px;
     float: left;
 }
 
 .main-block-bottom {
-    width: 210px;
+    width: 200px;
     height: 80px;
     float: left;
 }
-
+footer {
+    margin-top: 100px;
+    background-color: rgb(150, 243, 127);
+    width: 600px;
+    overflow: auto;
+}
 .footer-block {
-    width: 130px;
-    height: 140px;
-
-    margin: 20px;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
     padding: 20px;
     float: left;
 }
